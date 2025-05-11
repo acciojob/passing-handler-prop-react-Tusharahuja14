@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import '../styles/child.css';
+
 const Selection = ({ applyColor }) => {
   const [style, setStyle] = useState({});
 
